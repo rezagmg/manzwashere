@@ -812,7 +812,7 @@ var button = [
 {"urlButton": {"displayText": "MyOwner🔥","url": `https://wa.me/6283846819169`}},
 {"quickReplyButton": {"displayText": "Sewabot","id": 'sewabot'}},
 {"quickReplyButton": {"displayText": "Donasi","id": 'donasi'}},
-{"quickReplyButton": {"displayText": "Status Bot KirBotz","id": 'ping'}}
+{"quickReplyButton": {"displayText": "Status Bot Manz","id": 'ping'}}
 		]
 kirbotz.sendMessage(from, { caption: teks, location: { jpegThumbnail: thumb }, templateButtons: button, footer: `Owner Bot : ${owner.length}`, mentions: [sender] })
         .catch ((err) => reply(err))
