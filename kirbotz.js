@@ -2099,7 +2099,7 @@ await sendBut5nya(`──────〇『 ${ya}Info User${ya} 』
 ┌──『 ${ya}Other Menu${ya} 』
 │ ${ya}${Yy+=1} ${prefix}owner${ya}
 │ ${ya}${Yy+=1} ${prefix}credits${ya}
-│ ${ya}${Yy+=1} ${prefix}groupkirbotz${ya}
+│ ${ya}${Yy+=1} ${prefix}groupmanz${ya}
 │ ${ya}${Yy+=1} ${prefix}readmore${ya}
 │ ${ya}${Yy+=1} ${prefix}rules${ya}
 │ ${ya}${Yy+=1} ${prefix}donasi${ya}
@@ -5078,7 +5078,7 @@ await replyTemplate(`Welcome Kak\nJangan Lupa Baca Deskripsi\nPatuhi Rules Bot!!
 break
 case 'bye': {
 if (!m.isGroup) return
-await replyTemplate(`Awogwogwog Anak Kontol Baru Aja Keluar🗿`)
+await replyTemplate(`Awogwogwog Anak Kontol Baru Aja Keluar,Semoga Hidup Mu Di Penuhi Dengan Kesesangraan🗿`)
 }
 break
 case 'apakah':{
