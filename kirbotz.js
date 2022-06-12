@@ -4910,7 +4910,7 @@ hydratedFooterText: 'Created By Manz Executed',
 hydratedButtons: [
 {
 urlButton: {
-displayText: 'Owner KirBotz',
+displayText: 'Owner ManzExecuted',
 url: 'https://wa.me/6283846819169'
 }
 }]
