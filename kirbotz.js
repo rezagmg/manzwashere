@@ -4894,7 +4894,7 @@ Note : *Keuntungan Sewabot & Premium?*
 Bisa Masukin Bot Ke Group & Bisa Gunain Fitur Premium Tanpa Batas
 
 List Payment
-DANA : Scan Qr Di Atas
+GOPAY : Scan Qr Di Atas
 OVO : 083846819169
 Owner : https://wa.me/6283846819169
 
@@ -4923,7 +4923,7 @@ break
 case 'payment': case 'donasi': {
 if (isBan) return replyBan('Maaf Kamu Sudah Di Ban Silahkan Chat Owner Di Bawah Untuk Membuka Nya')
 donte = `_MAU BAYAR YA KAK_
-DANA : Scan Qr Di Atas
+GOPAY : Scan Qr Di Atas
 Owner : https://wa.me/6283846819169
 
 *NOTE :*
